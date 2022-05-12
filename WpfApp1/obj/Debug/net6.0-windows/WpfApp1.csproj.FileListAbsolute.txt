@@ -1,0 +1,82 @@
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Json.Net.dll
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\System.Runtime.WindowsRuntime.dll
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.0\System.Runtime.WindowsRuntime.dll
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.0\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\dvi\Documents\Aishwarya Projects\Ikea\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.ResolveComReference.cache
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\bin\Debug\net6.0-windows\Json.Net.dll
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\bin\Debug\net6.0-windows\System.Runtime.WindowsRuntime.dll
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\bin\Debug\net6.0-windows\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.0\System.Runtime.WindowsRuntime.dll
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.0\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.ResolveComReference.cache
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\dvi\Source\Repos\Warehouse__\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
